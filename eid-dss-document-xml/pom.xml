@@ -3,13 +3,13 @@
 	<parent>
 		<groupId>be.fedict</groupId>
 		<artifactId>eid-dss</artifactId>
-		<version>1.0.1-SNAPSHOT</version>
+		<version>1.0.2-SNAPSHOTOT</version>
 	</parent>
 	<name>eID DSS XML Document</name>
 	<description>eID DSS Document Service for XML documents</description>
 	<groupId>be.fedict.eid-dss</groupId>
 	<artifactId>eid-dss-document-xml</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOTSHOT</version>
 	<packaging>jar</packaging>
 	<build>
 		<plugins>
@@ -87,4 +87,4 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-</project>
+</proje

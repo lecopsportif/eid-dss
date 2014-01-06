@@ -3,13 +3,13 @@
 	<parent>
 		<groupId>be.fedict</groupId>
 		<artifactId>eid-dss</artifactId>
-		<version>1.0.1-SNAPSHOT</version>
+		<version>1.0.2-SNAPSHOTOT</version>
 	</parent>
 	<name>eID DSS PostgreSQL Distribution</name>
 	<description>PostgreSQL Distribution for eID Digital Signature Service</description>
 	<groupId>be.fedict.eid-dss</groupId>
 	<artifactId>eid-dss-postgresql-distribution</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOTSHOT</version>
 	<packaging>pom</packaging>
 	<build>
 		<plugins>
@@ -110,4 +110,4 @@
 			<type>zip</type>
 		</dependency>
 	</dependencies>
-</project>
+</proje
