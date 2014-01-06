@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>be.fedict</groupId>
 		<artifactId>eid-dss</artifactId>
-		<version>1.0.1-SNAPSHOT</version>
+		<version>1.0.2-SNAPSHOTOT</version>
 	</parent>
 	<name>eID DSS EAR</name>
 	<description>Java EE 5 EAR for eID Digital Signature Service</description>
 	<groupId>be.fedict.eid-dss</groupId>
 	<artifactId>eid-dss-deploy</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOTSHOT</version>
 	<packaging>ear</packaging>
 	<build>
 		<plugins>
@@ -558,4 +558,4 @@
 		</dependency>
 
 	</dependencies>
-</project>
+</proje

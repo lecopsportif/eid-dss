@@ -4,13 +4,13 @@
     <parent>
         <groupId>be.fedict</groupId>
         <artifactId>eid-dss</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.2-SNAPSHOTOT</version>
     </parent>
 
     <name>eID DSS .NET SDK</name>
     <groupId>be.fedict.eid-dss</groupId>
     <artifactId>eid-dss-sdk-dotnet</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOTSHOT</version>
     <packaging>pom</packaging>
 
     <build>
@@ -81,4 +81,4 @@
         </dependency>
     </dependencies>
 
-</project>
+</proje
