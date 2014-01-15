@@ -3,13 +3,13 @@
 	<parent>
 		<groupId>be.fedict</groupId>
 		<artifactId>eid-dss</artifactId>
-		<version>1.0.2-SNAPSHOTOT</version>
+		<version>1.0.2-fedictOT</version>
 	</parent>
 	<name>eID DSS Webapp</name>
 	<description>Web Application for eID Digital Signature Service</description>
 	<groupId>be.fedict.eid-dss</groupId>
 	<artifactId>eid-dss-webapp</artifactId>
-	<version>1.2-SNAPSHOTSHOT</version>
+	<version>1.2-fedictSHOT</version>
 	<packaging>war</packaging>
 	<build>
 		<plugins>
